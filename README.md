@@ -1,6 +1,9 @@
 # Little-Red-Riding-Hood-Part-2
 
 
+[Part 1 here](https://github.com/mlund2k/Little-Red-Riding-Hood/)
+
+
 The following program implements classes and objects of type Person, Thing, Location, Time, and 
 Record to describe the following chronological events laid throughout the Little Red Riding Hood 
 story:
@@ -24,6 +27,7 @@ moved from hw5Home.cpp to hw5Forest.cpp through a server. These same objects are
 "hw5GrandmaHome.cpp". 
 
 **How to run:**
+Copy all files to your current directory, make sure to unzip ```libjson-rpc-cpp.zip``` and put it inside of your directory.
 Have your terminal open
 Open three tabs, all of them on the directory "hw5"
 enter "make" in one of the tabs
